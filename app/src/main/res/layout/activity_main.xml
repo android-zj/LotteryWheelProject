@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     >
 
-    <com.lt.lottery.LotteryWheelView
+    <com.zj.lotterywheel.LotteryWheelView
         android:id="@+id/lottery"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

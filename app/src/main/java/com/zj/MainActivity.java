@@ -1,12 +1,15 @@
-package com.zj.myapplication;
+package com.zj;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.zj.lotterywheel.LotteryWheelView;
+import com.zj.myapplication.R;
 
 public class MainActivity extends AppCompatActivity {
+
     LotteryWheelView mLotteryView;
     ImageView mStart;
 
