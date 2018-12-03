@@ -1,6 +1,8 @@
 # 抽奖转盘 
 
 
+![image](https://raw.githubusercontent.com/android-zj/LotteryWheelProject/master/image/miaosu.png)  
+
 # 使用
 
 修改你的  `build.gradle`文件
